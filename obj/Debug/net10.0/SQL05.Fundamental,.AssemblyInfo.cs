@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQL05.Fundamental,")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+584f297a83bd98048550daec1b76608e5c1cb4df")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQL05.Fundamental,")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQL05.Fundamental,")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

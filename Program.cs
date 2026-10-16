@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using System.Globalization;
+
+Console.WriteLine("Hello, World!");
 int myInt = 9;
 double myDouble = myInt;
 Console.WriteLine(myDouble);
@@ -79,6 +81,27 @@ else
 {
     Console.WriteLine("Both cities have the same temperature.");
 }
+
+string first = "shukroh", last = "sunmisola";
+string full = first + " " + last;
+Console.WriteLine("full. lenght");
+Console.WriteLine("full.Topper()");
+
+
+String name = "Sunmisola";
+Console.WriteLine("constant,{Sun}");
+Console.WriteLine("constant,{sun)}");
+Console.WriteLine("constant,{misola}");
+
+String []fruit = { " Apple", "Mango", "Orange"};
+
+
+
+
+
+
+
+
 
 
 

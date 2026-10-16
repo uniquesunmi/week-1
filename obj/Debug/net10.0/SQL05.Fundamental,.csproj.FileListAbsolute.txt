@@ -1,0 +1,15 @@
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\bin\Debug\net10.0\SQL05.Fundamental,.exe
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\bin\Debug\net10.0\SQL05.Fundamental,.deps.json
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\bin\Debug\net10.0\SQL05.Fundamental,.runtimeconfig.json
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\bin\Debug\net10.0\SQL05.Fundamental,.dll
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\bin\Debug\net10.0\SQL05.Fundamental,.pdb
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\obj\Debug\net10.0\SQL05.Fundamental,.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\obj\Debug\net10.0\SQL05.Fundamental,.AssemblyInfoInputs.cache
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\obj\Debug\net10.0\SQL05.Fundamental,.AssemblyInfo.cs
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\obj\Debug\net10.0\SQL05.Fundamental,.csproj.CoreCompileInputs.cache
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\obj\Debug\net10.0\SQL05.Fundamental,.dll
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\obj\Debug\net10.0\refint\SQL05.Fundamental,.dll
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\obj\Debug\net10.0\SQL05.Fundamental,.pdb
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\obj\Debug\net10.0\SQL05.Fundamental,.genruntimeconfig.cache
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\obj\Debug\net10.0\ref\SQL05.Fundamental,.dll
+C:\Users\Shukurah\source\repos\SQL05.Fundamental,\SQL05.Fundamental,\obj\Debug\net10.0\SQL05.Fu.9E670A36.Up2Date

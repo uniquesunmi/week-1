@@ -85,8 +85,21 @@ else
 string first = "shukroh", last = "sunmisola";
 string full = first + " " + last;
 Console.WriteLine("full. lenght");
+Console.WriteLine("full.Topper()");
 
-String name = "muhydeen";
+
+String name = "Sunmisola";
+Console.WriteLine("constant,{Sun}");
+Console.WriteLine("constant,{sun)}");
+Console.WriteLine("constant,{misola}");
+
+String []fruit = { " Apple", "Mango", "Orange"};
+
+
+
+
+
+
 
 
 
